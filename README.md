@@ -5,7 +5,7 @@ The face anti-spoofing is an technique that could prevent face-spoofing attack. 
 
 All the face images listed below are in the dataset of CASIA-FASD
 
-#Why MobileNet?
+# Why MobileNet?
 MobileNet is an architecture which is more suitable for mobile and embedded based vision applications where there is lack of compute power. This architecture was proposed by Google.
 
  
