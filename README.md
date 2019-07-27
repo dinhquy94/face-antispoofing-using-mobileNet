@@ -1,5 +1,6 @@
 # CNN for face-anti-spoofing
 The face anti-spoofing is an technique that could prevent face-spoofing attack. For example, an intruder might use a photo of the legal user to "deceive" the face recognition system. Thus it is important to use the face anti-spoofint technique to enhance the security of the system.
+<img src="https://paperswithcode.com/media/tasks/facial-anti-spoofing_gHfingq.png" alt="facial-anti-spoofing" border="0">
 
 All the face images listed below are in the dataset of CASIA-FASD
 
@@ -51,4 +52,3 @@ I've already implemented this function. It's called ```calculate_flops()``` in `
 
  <img src="https://i.ibb.co/G2784c7/test.png" alt="test" border="0">
 
- <img src="https://paperswithcode.com/media/tasks/facial-anti-spoofing_gHfingq.png" alt="facial-anti-spoofing" border="0">
