@@ -1,5 +1,6 @@
 # CNN for face-anti-spoofing
 The face anti-spoofing is an technique that could prevent face-spoofing attack. For example, an intruder might use a photo of the legal user to "deceive" the face recognition system. Thus it is important to use the face anti-spoofint technique to enhance the security of the system.
+<br>
 <img src="https://paperswithcode.com/media/tasks/facial-anti-spoofing_gHfingq.png" alt="facial-anti-spoofing" border="0">
 
 All the face images listed below are in the dataset of CASIA-FASD
